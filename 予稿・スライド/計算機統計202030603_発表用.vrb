@@ -1,0 +1,14 @@
+\frametitle{簡単な例：タイタニックデータ}
+
+\begin{figure}
+\centering
+\begin{tabular}{cc}
+\includegraphics[width=5.5cm]{img/Titanic.pdf} &
+\includegraphics[width=5.5cm]{img/Titanic_V.pdf}
+\end{tabular}
+\caption{左：集計されたデータ, 右：$V$の推定値}
+\end{figure}
+
+\begin{verbatim}
+R> mNMF_vb(Freq ~ Survived+Class+Sex+Age, data=Titanic, L=２)
+\end{verbatim}

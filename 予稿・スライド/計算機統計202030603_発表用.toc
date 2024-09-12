@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{背景}{2}{0}{1}
+\beamer@sectionintoc {2}{モデルと推定}{6}{0}{2}
+\beamer@sectionintoc {3}{シミュレーション}{9}{0}{3}
+\beamer@sectionintoc {4}{データ分析}{11}{0}{4}
